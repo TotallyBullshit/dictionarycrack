@@ -98,5 +98,4 @@ for my $md5 (@HASHES){
 	print "$md5 not found\n";
 }
 
-
-1;
+# EOF
